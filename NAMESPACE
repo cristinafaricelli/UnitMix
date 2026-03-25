@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "grid", "legend", "par", "points")
+importFrom("stats", "qchisq")
+importFrom("utils", "combn")
+  
+  

@@ -1,0 +1,16 @@
+ee6f702a428896364fe1a8150e5fb1f1 *DESCRIPTION
+a21783e96aa406fe6a7033bbcb9ecd2c *NAMESPACE
+6beb327c88de72478358d05e810bb388 *R/assign.cluster.R
+917620e9acc8c6373f280cf858013e04 *R/check.data.R
+42408deeb9c8c2d3d162d06a1cc73e37 *R/cluster.plot.R
+fd21b317e704b1e42956a13481af633f *R/refine.cluster.R
+2f1cc43db4dc9fdac30a644aad005a57 *man/assign.cluster.Rd
+0bee67878af0b325a816d4324fd01286 *man/check.data.Rd
+8f5a1742602df815dde75d93b1b23231 *man/cluster.plot.Rd
+956ca8ff6d7fe3e276090223d8a8e8a1 *man/refine.cluster.Rd
+f946499665d5c51c1a696155f6d371e6 *tests/testthat.R
+6cbd43ab7744c23ee556e9faedf28df9 *tests/testthat/test-assign.cluster.R
+d457f19d45c2786023532ca6074c1802 *tests/testthat/test-check.data.R
+9aab0e082ab7a8b9c98ec64abc69d2a3 *tests/testthat/test-cluster.plot.R
+f543b166148a9ab46f59e827da8f20db *tests/testthat/test-dummy.R
+af637477288c1585c0eec139abd1933c *tests/testthat/test-refine.cluster.R
